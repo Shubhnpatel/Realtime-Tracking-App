@@ -24,7 +24,7 @@ This is a real-time location tracking app built using **Node.js**, **Express**, 
 ### Steps to Run the Application
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/real-time-tracking-app.git
+   https://github.com/Shubhnpatel/Realtime-Tracking-App.git
    cd real-time-tracking-app
 Install dependencies: Install the required dependencies using npm:
 
